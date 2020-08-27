@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/into-0/imitate/blob/master/doc/img_1.png)
 
 ## Requirements
-这个项目几乎没有依赖,除了好看的颜色。🙃
+这个项目几乎没有依赖,除了好看的颜色。
 >pip3 install colorama
 
 ### 👉 Note
