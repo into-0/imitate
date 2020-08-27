@@ -11,13 +11,18 @@
 
 ## Installation
 >git clone https://github.com/into-0/imitate.git
+
 >cd imitate
+
 >python3 imitate
+
 或者
+
 >./imitate.py
 
 ## More
 如果你也想学习CTF可以访问这个项目:
+
 https://github.com/firmianay/CTF-All-In-One
 
 ## Help
