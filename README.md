@@ -14,7 +14,7 @@
 
 >cd imitate
 
->python3 imitate
+>python3 imitate.py
 
 或者
 
