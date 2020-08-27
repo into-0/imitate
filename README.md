@@ -10,7 +10,16 @@
 使用python3.x来运行此程序(python2.x还未测试)
 
 ## Installation
->
+>git clone https://github.com/into-0/imitate.git
+>cd imitate
+>python3 imitate
+或者
+>./imitate.py
+
+## More
+如果你也想学习CTF可以访问这个项目:
+https://github.com/firmianay/CTF-All-In-One
+
 
 
 
