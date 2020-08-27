@@ -1,3 +1,4 @@
 # imitate
-正在开发中...
-仍在测试中...
+=
+## 用于破解ctf中的密码学 | Used to crack cryptography in ctf
+
