@@ -20,6 +20,10 @@
 如果你也想学习CTF可以访问这个项目:
 https://github.com/firmianay/CTF-All-In-One
 
+## help
+你可以提交问题或者点击"⭐"鼓励一下。
+
+
 
 
 
